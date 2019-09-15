@@ -3,6 +3,14 @@
     text-align: center;
 }
 
+h1 {
+    font-size: 2vw;
+}
+
+h3 {
+    color: grey;
+}
+
 #input {
     display: block;
     margin: 50px auto;
